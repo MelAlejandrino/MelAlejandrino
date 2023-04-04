@@ -25,7 +25,7 @@ I'm a 2nd year BSIT Student.
 
 #
 
-### Current Status Quo:
+### Current Status:
 
 - 📚 Student at USTP
 - 📖 Academic Commissioner
