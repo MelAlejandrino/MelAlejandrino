@@ -2,7 +2,7 @@
 
 **`BSIT Student`**
 
-I'm a 2nd year BSIT Student. Aspriring full stack developer.
+I'm a 2nd year BSIT Student. Aspiring full stack developer.
 
    <p align="left">
       <a href="https://www.facebook.com/Melkun02/"><img src="https://img.shields.io/badge/melalejandrino-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
