@@ -29,3 +29,6 @@ I'm a 2nd year BSIT Student. Aspiring full stack developer.
 
 - 📚 Student at USTP
 - 📖 Academic Commissioner
+
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{MelAlejandrino}/count.svg)
