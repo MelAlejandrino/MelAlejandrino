@@ -8,6 +8,7 @@ I'm a BSIT Student. Aspiring full stack developer.
       <a href="https://www.facebook.com/Melkun02/"><img src="https://img.shields.io/badge/melalejandrino-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
       <a href="https://twitter.com/MelKun8"><img src="https://img.shields.io/badge/MELKUN-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
       <a href="mailto:alejandrino.mel002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/melcarlo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    </p>
 
 ---
