@@ -2,7 +2,7 @@
 Freelance Web Developer
 
 ## Links
-- [melcarlo.vercel.app](https://melcarlo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/melcarlo/)  
+- [LinkedIn](https://www.linkedin.com/in/melcarlo/)  
 - [Facebook](https://www.facebook.com/Melkun02/)  
 - [Email](mailto:alejandrino.mel002@gmail.com)
 
