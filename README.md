@@ -1,5 +1,5 @@
 # Mel Alejandrino
-BSIT student · Aspiring full-stack developer
+Freelance Web Developer
 
 ## Links
 - [melcarlo.vercel.app](https://melcarlo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/melcarlo/)  
