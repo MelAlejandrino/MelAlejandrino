@@ -10,5 +10,6 @@ Freelance Web Developer
 - MongoDB · Firebase · Next.js · React · Express.js · Tailwind CSS · Laravel    
 - HTML · CSS · JavaScript · PHP · Git · GitHub · Figma · MySQL
 
-## About
-- Studying at USTP  
+## Experience
+- Intern at Syntactics Inc.
+- Freelance Web Developer at Syntactics Inc.  
